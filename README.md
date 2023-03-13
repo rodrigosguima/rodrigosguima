@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/rodrigo-da-silva-guimar%c3%a3es-059146142/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rodrigo-s-guimaraes/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rodrigo-s-guimaraes/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rodrigo-s-guimaraes/" height="30" width="40" /></a>
 <a href="https://instagram.com/@rodrigoguimaraesgs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@rodrigoguimaraesgs" height="30" width="40" /></a>
 </p>
 
