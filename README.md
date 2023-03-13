@@ -3,13 +3,13 @@
 
 - 🔭 Atualmente estou trabalhando com análises e visualizações de dados [-](-)
 
-- 🌱 Atualmente estou aprendendo **Python e estatística**
+- 🌱 Atualmente estou aprendendo **Python, estatística, cloud, azure**
 
 - 💬 Me pergunte sobre **SQL(MySQL,Postgre), PowerBI, Tableau, Python, Pandas, Excel**
 
 - 📫 Você me acha através do e-mail **digo_210585@hotmail.com**
 
-- 📄 Aqui estão as minhas habilidades [https://www.linkedin.com/in/rodrigo-da-silva-guimar%C3%A3es-059146142/](https://www.linkedin.com/in/rodrigo-da-silva-guimar%C3%A3es-059146142/)
+- 📄 Aqui estão as minhas habilidades [https://www.linkedin.com/in/rodrigo-s-guimaraes/]
 
 - ⚡ Hobby **Adoro cozinhar**
 
