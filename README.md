@@ -3,9 +3,9 @@
 
 - 🔭 Atualmente estou trabalhando com análises e visualizações de dados [-](-)
 
-- 🌱 Atualmente estou aprendendo **Python, estatística, cloud, azure**
+- 🌱 Atualmente estou aprendendo **Python, Estatística, Cloud(Azure,GCP)**
 
-- 💬 Me pergunte sobre **SQL(MySQL,Postgre), PowerBI, Tableau, Python, Pandas, Excel**
+- 💬 Me pergunte sobre **SQL(MySQL,Postgre), PowerBI, Tableau, Python, Pandas, Excel, Databricks**
 
 - 📫 Você me acha através do e-mail **digo_210585@hotmail.com**
 
